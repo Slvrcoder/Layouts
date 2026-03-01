@@ -1,0 +1,9 @@
+.yo{
+    padding: 50;
+    margin: 20;
+    background-color: black;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
