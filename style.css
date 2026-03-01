@@ -1,23 +1,64 @@
 body{
-    background-color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    background-color: rgb(129, 129, 255);
 }
+
 .yo{
     padding: 50;
     margin: 20;
-    background-color: rgb(248, 0, 0);
+    background-color: rgb(255, 255, 119);
 }
+
 .flex{
     display: flex;
     justify-content: center;
 }
-.fundo{ 
-    background-color: white;
-    width: 70vw;
-    height: 30vw;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+
+.red{
+    padding-right: 190px;
+    background-color: rgb(255, 255, 119);
+}
+
+.yellow{
+    padding-bottom: 336px;
+    background-color: rgb(255, 255, 119);
+}
+
+.blue{
+    padding-bottom: 190;
+    margin-top: 26;
+    background-color: rgb(255, 255, 119);
+}
+
+.pink{
+   padding: 130;
+   padding-top: 350;
+   margin-right: 30;
+   background-color: rgb(255, 255, 119);
+}
+
+.white{
+    padding-right: 450px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 0;
+}
+
+.purple{
+    margin-right: 405;
+    background-color: rgb(255, 255, 119);
+}
+
+.false{
+    padding: 50;
+    margin: 20;
+}
+
+.green{
+    padding-bottom: 210px;
+    background-color: rgb(255, 255, 119);
+}
+
+.block{
+    padding-bottom: 50;
+    margin: 20;
+    background-color: rgb(255, 255, 119);
 }
