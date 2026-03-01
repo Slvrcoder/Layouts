@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(129, 129, 255);
+    background-color: black
 }
 
 .yo{
     padding: 50;
     margin: 20;
-    background-color: rgb(255, 255, 119);
+    background-color: red
 }
 
 .flex{
@@ -15,25 +15,24 @@ body{
 
 .red{
     padding-right: 190px;
-    background-color: rgb(255, 255, 119);
+    background-color: red
 }
 
 .yellow{
     padding-bottom: 336px;
-    background-color: rgb(255, 255, 119);
+    background-color: red
 }
-
 .blue{
     padding-bottom: 190;
     margin-top: 26;
-    background-color: rgb(255, 255, 119);
+    background-color: red
 }
 
 .pink{
    padding: 130;
    padding-top: 350;
    margin-right: 30;
-   background-color: rgb(255, 255, 119);
+   background-color:red
 }
 
 .white{
@@ -44,7 +43,7 @@ body{
 
 .purple{
     margin-right: 405;
-    background-color: rgb(255, 255, 119);
+    background-color: red;
 }
 
 .false{
@@ -54,11 +53,19 @@ body{
 
 .green{
     padding-bottom: 210px;
-    background-color: rgb(255, 255, 119);
+    background-color: red
 }
 
 .block{
     padding-bottom: 50;
     margin: 20;
-    background-color: rgb(255, 255, 119);
+    background-color: red
+}
+.fundo{ 
+    background-color: white;
+    width: 70vw;
+    height: 30vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
